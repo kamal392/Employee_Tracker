@@ -8,4 +8,4 @@ This application is buit with node.js, mysql. There are few nmp packages you nee
 express @4.17.1 ,figlet @1.4.0 ,mysql2 @ 2.1.1 ,nodeman @ 2.0.4 and validation. to make this application run in your terminal.
 
 
-Here is the link to the workign application https://drive.google.com/file/d/1NjZc8m-evy6_ybiFgBSz_HkUfqq8LD9x/view
+Here is the link to the working application https://drive.google.com/file/d/1NjZc8m-evy6_ybiFgBSz_HkUfqq8LD9x/view
